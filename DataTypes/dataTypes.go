@@ -21,7 +21,6 @@ func main() {
 	fmt.Println(d)
 
 	//type conversion
-
 	f_value := 3.14
 	fmt.Println(f_value)
 
